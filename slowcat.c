@@ -1,6 +1,7 @@
-#
-# from https://superuser.com/questions/239893/how-to-rate-limit-a-pipe-under-linux
-#
+/*
+ * from https://superuser.com/questions/239893/how-to-rate-limit-a-pipe-under-linux
+ *
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
