@@ -1,4 +1,4 @@
-# TAPE-MARK-1
+# TAPE MARK 1
 
 Python reconstruction of 1961 electronic poem "TAPE MARK 1" by Nanni Balestrini
 *( currently on display at ZKM Karlsruhe: http://zkm.de/en/node/30507 )*
