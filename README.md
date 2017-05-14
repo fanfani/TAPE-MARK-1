@@ -7,7 +7,7 @@ Python reconstruction of 1961 electronic poem "TAPE MARK 1" by Nanni Balestrini
 *REQUIREMENTS*: Python programming language, UNIX shell, C compiler
 
 
-*HOWTO*: just loop the program in a UNIX terminal, for example, in a bash shell type
+*HOWTO*: just loop the program in a UNIX terminal; for example, in a bash shell type
 
 ```while true; do ./tape_mark_1.py ; sleep 2 ; done```
 
