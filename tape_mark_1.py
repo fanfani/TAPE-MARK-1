@@ -2,25 +2,25 @@
 
 import random
 import sys
-
+ 
 versi = \
-[["l accecante/globo/di fuoco", "1/4", "2/3", "1"],\
-["si espande/rapidamente", "1/2", "3/4", "1"],\
-["trenta volte/piu luminoso/del sole", "2/3", "2/4", "1"],\
-["quando raggiunge/la stratosfera", "3/4", "1/2", "1"],\
-["la sommita/della nuvola", "1/3", "2/3", "1"],\
-["assume/la ben nota forma/di fungo", "2/4", "3/4", "1"], \
+[[" l accecante   /  globo  /  di fuoco  ", "1/4", "2/3", "1"],\
+[" si espande   /  rapidamente  ", "1/2", "3/4", "1"],\
+[" trenta volte  / piu luminoso  / del sole ", "2/3", "2/4", "1"],\
+[" quando  raggiunge / la stratosfera  ", "3/4", "1/2", "1"],\
+[" la  sommita  /  della nuvola ", "1/3", "2/3", "1"],\
+[" assume   / la ben nota forma  / di fungo ", "2/4", "3/4", "1"], \
 
-["la testa/premuta/sulla spalla", "1/4", "2/4", "2"],\
-["i capelli/tra le labbra", "1/4", "2/4", "2"],\
-["giacquero/immobili/senza parlare", "2/3", "2/3", "2"],\
-["finche non mosse/le dita/lentamente", "3/4", "1/3", "2"],\
-["cercando/di afferrare", "3/4", "1/2", "2"],\
+[" la testa / premuta  / sulla spalla  ", "1/4", "2/4", "2"],\
+[" i  capelli   /  tra le labbra ", "1/4", "2/4", "2"],\
+[" giacquero  /   immobili / senza parlare ", "2/3", "2/3", "2"],\
+[" finche non mosse  /  le dita  / lentamente    ", "3/4", "1/3", "2"],\
+[" cercando / di afferrare  ", "3/4", "1/2", "2"],\
 
-["mentre la moltitudine/delle cose/accade", "1/2", "1/2", "3"],\
-["io contemplo/il loro ritorno", "2/3", "3/4", "3"],\
-["malgrado/che le cose/fioriscano", "1/2", "2/3", "3"],\
-["esse tornano/tutte/alla loro radice", "2/3", "1/4", "3"]]
+[" mentre la moltitudine  /  delle cose  /   accade   ", "1/2", "1/2", "3"],\
+[" io contemplo  /  il loro ritorno    ", "2/3", "3/4", "3"],\
+[" malgrado / che le cose  /  fioriscano    ", "1/2", "2/3", "3"],\
+[" esse tornano  / tutte    / alla loro radice   ", "2/3", "1/4", "3"]]
 
 #~ gruppo "1", 0-5: Diario di Hiroshima, di Michihito Hachiya
 #~ gruppo "2", 6-10: Il Mistero dell'ascensore, di Paul Goldwin
@@ -65,8 +65,7 @@ print ""
 for k in xrange(len(s)):
 	
 	if k == (len(s) - 1): sys.stdout.write(s[k].upper())
-	else: sys.stdout.write(s[k].upper() + "   ")
-    # nota: nel tabulato originale ci sono esattamente 5 spazi
+	else: sys.stdout.write(s[k].upper())
 
     # senza la seguente istruzione l'output di una strofa
     # viene formattato come nel tabulato originale, senza 'a capo'
@@ -112,7 +111,7 @@ print ""
 #~ alla loro radice, si espandono rapidamente, finche' non mosse
 #~ le dita lentamente quando raggiunse la stratosfera
 #~ e giacque immobile senza parlare, trenta volte
-#~ piu' luminoso del sole, cercando di afferrare.
+#~ piu' luminoso del sole, cercando dibetter white afferrare.
 #~ 
 #~ Io contemplo il loro ritorno, finche' non mosse le dita
 #~ lentamente nell'accecante globo di fuoco:
