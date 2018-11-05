@@ -111,7 +111,7 @@ print ""
 #~ alla loro radice, si espandono rapidamente, finche' non mosse
 #~ le dita lentamente quando raggiunse la stratosfera
 #~ e giacque immobile senza parlare, trenta volte
-#~ piu' luminoso del sole, cercando dibetter white afferrare.
+#~ piu' luminoso del sole, cercando di afferrare.
 #~ 
 #~ Io contemplo il loro ritorno, finche' non mosse le dita
 #~ lentamente nell'accecante globo di fuoco:
