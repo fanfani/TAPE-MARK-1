@@ -1,7 +1,6 @@
 # TAPE MARK 1
 
 Python reconstruction of 1961 electronic poem "TAPE MARK 1" by Nanni Balestrini
-*( currently on display at ZKM Karlsruhe: http://zkm.de/en/node/30507 )*
 
 
 *REQUIREMENTS*: Python programming language, UNIX shell, C compiler
@@ -26,6 +25,7 @@ Then, a weird idea came to our minds: to find the original media containing the 
 
 During our quest for the original "Tape Mark" program - still undergoing - we met Nanni for a second time and gave him the small wooden box you are looking at, as a present for his kindness. It hacks together our own Python program, a tiny "Raspberry Pi Zero" computer and an old portable TV set found at a flea market. 
 
+
 **Exhibitions**
 
 The Tape Mark 1 "wooden box" reconstruction has been on display at the following exhibitions:
@@ -41,11 +41,12 @@ The Tape Mark 1 "wooden box" reconstruction has been on display at the following
 - "Writing the History of the Future - The ZKM Collection", from 23/02/2019 (ongoing) at ZKM | "Zentrum für Kunst und Medien", Karlsruhe, Germany
 
 
-**The MIAI and MusIF computer museums**
+**The MIAI and MusIF computer musea**
 
 "Museo Interattivo di Archeologia Informatica" (MIAI) in Calabria and "Museo dell’Informatica Funzionante" (MusIF) in Sicily are two computer museums, both born in the early 00s and both located in southern Italy. After many years of collaboration the two institutions like to think of themselves as a single entity, geographically split in two complementary collections.
 
 Our permanent exhibits of working historical computer systems are open to the public and can be visitable upon reservation. Visitors are welcome to interact with all the working machines experiencing the feel of old systems, softwares and interfaces. Combined, the two collections count thousands of vintage systems, ranging from early '60s computers to large mainframes, a timeline of home computers and videogame consoles, old Apple systems, IBM PC clones, UNIX workstations, and all kinds of weird peripherals. The exhibits include also a well stocked library, with more than 4000 documents among old books, technical manuals and magazines.
+
 
 **Credits**
 
