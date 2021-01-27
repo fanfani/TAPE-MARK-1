@@ -55,14 +55,14 @@ except: sys.exit()
 
 
 strofa = []
-for k in xrange(len(strofa_uno)):
+for k in range(len(strofa_uno)):
 	strofa.append(strofa_uno[k][0])
 
 s = '/'.join(strofa).split("/")
 
-print ""
+print("")
 
-for k in xrange(len(s)):
+for k in range(len(s)):
 	
 	if k == (len(s) - 1): sys.stdout.write(s[k].upper())
 	else: sys.stdout.write(s[k].upper())
@@ -70,9 +70,9 @@ for k in xrange(len(s)):
     # senza la seguente istruzione l'output di una strofa
     # viene formattato come nel tabulato originale, senza 'a capo'
     
-	# if k > 0 and (k+1)%4 == 0: print ""
+	#if k > 0 and (k+1)%4 == 0: print("")
 	
-print ""
+print("")
 
 
 #~ ---------------------------------------------------------------------
